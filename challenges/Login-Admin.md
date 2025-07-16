@@ -3,6 +3,14 @@
 # Login Admin ★★
 
 Log in with the administrator's user account.
+<br />
+
+
+### Vulnerability Impact
+
+Injection vulnerabilities allow attackers to send crafted input that the system executes as code, leading to data theft or manipulation, unauthorized command execution, privilege escalation, service disruption, and full system compromise.<br />
+
+
 
 ![Login Admin Email](/img/login-admin-email.png)
 <br />

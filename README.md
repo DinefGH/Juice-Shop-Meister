@@ -1,26 +1,49 @@
-OWASP Juice Shop
+# OWASP Juice Shop
 
 This repository contains the solutions for a set of OWASP Juice Shop challenges completed as part of the Developer Academy coursework. This project is provided strictly for educational purposes.
 
+
+Table of Contents
+
+
+* [Repository Structure](#repository_structure)
+
+* [Challenges Solved](#challenges_solved)
+
+* [How to Use](#how_to_se)
+
+* [Disclaimer](#disclaimer)
+
+
+
 ### Repository Structure
+<br />
 
-challenges/
-├── [CAPTCHA-Bypass.md](challenges/CAPTCHA-Bypass.md)         # Documentation for CAPTCHA bypass challenge
-├── [Confidential-Document.md](challenges/Confidential-Document.md)  # Documentation for confidential document access challenge
-├── [Login-Admin.md](challenges/Login-Admin.md)            # Documentation for admin login challenge
-└── [Score-Board.md](challenges/Score-Board.md)            # Documentation for score board challenge
-
+```bash
+JUICE-SHOP-CHALLENGES/
+├── .vscode/                           # VS Code workspace settings
+│   └── settings.json                  # (optional) editor and workspace configuration
+├── challenges/                        # Challenge write-ups
+│   ├── CAPTCHA-Bypass.md              # Documentation for CAPTCHA bypass challenge
+│   ├── Confidential-Document.md       # Documentation for confidential document access challenge
+│   ├── Login-Admin.md                 # Documentation for admin login challenge
+│   └── Score-Board.md                 # Documentation for score board manipulation challenge
+├── img/                               # Supporting images for write-ups
+├── .gitignore                         # Ignore rules for Git
+├── README.md                          # Project overview and navigation
+└── Juice Shop Meister Checkliste.pdf  #Checklist
+```
 
 
 ### Challenges Solved
 
-1. CAPTCHA Bypass
+1. [CAPTCHA-Bypass.md](challenges/CAPTCHA-Bypass.md)
 
-2. Confidential Document Access
+2. [Confidential-Document.md](challenges/Confidential-Document.md)
 
-3. Administrator Login
+3. [Login-Admin.md](challenges/Login-Admin.md)
 
-4. Score Board Manipulation
+4. [Score-Board.md](challenges/Score-Board.md)
 
 
 ### How to Use

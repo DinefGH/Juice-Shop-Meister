@@ -3,6 +3,13 @@
 # Confidential Document ★
 
 Access a confidential document.
+<br />
+
+
+### Vulnerability Impact
+
+Sensitive Data Exposure via improper directory enumeration lets attackers access hidden Markdown files with confidential information, leading to data breaches, regulatory penalties, reputational harm.<br />
+
 
 ![Confidential Document Gobuster](/img/confidental-document-gobuster.png)
 <br />
@@ -11,8 +18,6 @@ Access a confidential document.
 <br />
 
 ![Confidential Document File](/img/confidental-document-file.png)
-
-
 <br />
 
 #### Prerequisites

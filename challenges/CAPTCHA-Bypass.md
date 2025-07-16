@@ -3,6 +3,12 @@
 # CAPTCHA Bypass ★★★
 
 Submit 10 or more customer feedbacks within 20 seconds.
+<br />
+
+
+### Vulnerability Impact
+
+Exploiting a CAPTCHA bypass allows attackers to flood feedback forms with automated spam, corrupt analytics, overwhelm server resources, facilitate large‑scale attacks on other vulnerabilities, and ultimately erode user trust.<br />
 
 ![CAPTCHA Bypass Form](/img/CAPTCHA-bypass-form.png)
 

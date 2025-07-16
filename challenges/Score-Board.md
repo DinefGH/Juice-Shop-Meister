@@ -3,6 +3,13 @@
 # Score Board ★
 
 Find the carefully hidden 'Score Board' page.
+<br />
+
+
+### Vulnerability Impact
+
+Verschiedene Schwachstellen umfassen ein breites Spektrum von Fehlern - wie Fehlkonfigurationen, unsichere Standardeinstellungen und Fehler in der Geschäftslogik -, die Angreifer ausnutzen können, um Kontrollen zu umgehen, Daten zu verlieren oder Dienste zu stören.<br />
+
 
 
 ![Score Board Path](/img/score-board-path.png)
